@@ -12,7 +12,11 @@
 - 📫 How to reach me **areo5459@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p>areo5459@gnail.com</p>
+<p><ul>
+  <li>areo5459@gnail.com</p></li>
+</ul>
+  
+  
 
 <p align="left">
 </p>
