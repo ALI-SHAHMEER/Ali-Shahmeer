@@ -12,6 +12,8 @@
 - 📫 How to reach me **areo5459@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p>areo5459@gnail.com</p>
+
 <p align="left">
 </p>
 
