@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Shahmeer</h1>
-<h3 align="center">A passionate student in the feild of software enginerring</h3>
+<h3 align="center">A passionate student in the field of software engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-shahmeer&label=Profile%20views&color=0e75b6&style=flat" alt="ali-shahmeer" /> </p>
 
