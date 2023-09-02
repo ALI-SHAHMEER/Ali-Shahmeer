@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <ul>
-  <li><h1>areo5459@gnail.com</h1></li>
+  <li><h1>areo5459@gmail.com</h1></li>
   <li><h1>https://ali-shahmeer.github.io/portfolio/</h1></li>
 </ul>
   
