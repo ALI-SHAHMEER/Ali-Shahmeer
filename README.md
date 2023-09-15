@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-shahmeer&label=Profile%20views&color=0e75b6&style=flat" alt="ali-shahmeer" /> </p>
 
-- 🔭 I’m currently working on **Crypto app**
+- 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **C#,Java-Script,Linux**
+- 🌱 I’m currently learning **C,C#,Python,Java-Script,Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ALI-SHAHMEER](https://github.com/ALI-SHAHMEER)
 
