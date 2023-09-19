@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ALI-SHAHMEER](https://github.com/ALI-SHAHMEER)
 
-- 👨‍💻 You can go through my project repository at 
+- 👨‍💻 You can go through my project repository at https://github.com/ALI-SHAHMEER?tab=repositories
 
 - 📫 How to reach me **areo5459@gmail.com**
 
