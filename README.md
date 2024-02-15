@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **C,C#,Python,Java-Script,Linux**
+- 🌱 I’m currently learning **Python,Machine Learning,Deep Learning,Transformer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ALI-SHAHMEER](https://github.com/ALI-SHAHMEER)
 
